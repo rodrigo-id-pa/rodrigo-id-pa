@@ -1,6 +1,6 @@
 ### _Olá 👋, Sou Rodrigo - Webmaster - 👨&zwj;💻_
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/rodrigo-id-pa//)
-![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/Digopeeh_//)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigopa-785a25168/)](https://www.linkedin.com/in/rodrigopa-785a25168/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/Digopeeh_/)](https://www.instagram.com/Digopeeh_/)
+
 
 ⚡ Trabalhando como Web Design e Desenvolvedor Front-end.
 
