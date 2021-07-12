@@ -7,15 +7,8 @@
 :computer: Techs:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"></code>
 <code><img height="20" src="https://reactnative.dev/img/header_logo.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-id-pa&theme=tokyonight&show_icons=true)<br/>
