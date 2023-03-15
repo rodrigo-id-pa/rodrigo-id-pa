@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigopa-785a25168/)](https://www.linkedin.com/in/rodrigopa-785a25168/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rodriggotv/)](https://www.instagram.com/rodriggotv/)
 
 
-⚡ Desenvolvedor Front-end.
+⚡ Desenvolvedor e Analista de Dados
 
 :computer: Techs:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
