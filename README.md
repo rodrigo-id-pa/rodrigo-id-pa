@@ -20,7 +20,6 @@
 <code><img height="40" src="https://user-images.githubusercontent.com/59376552/230419843-186a7a4d-de40-48b5-8066-53fa0a9477dc.png"></code>
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-id-pa&theme=tokyonight&show_icons=true)<br/>
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigo-id-pa">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigo-id-pa&layout=compact&theme=tokyonight" />
 </a>
