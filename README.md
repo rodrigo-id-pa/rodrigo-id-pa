@@ -1,7 +1,6 @@
 ### _Olá 👋, Sou Rodrigo - td bem ? - 👨&zwj;💻_
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigopa-785a25168/)](https://www.linkedin.com/in/rodrigopa-785a25168/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rodriggotv/)](https://www.instagram.com/rodriggotv/)
 
-
 ⚡ Desenvolvedor e Analista de Dados
 
 :computer: Techs:
@@ -18,8 +17,9 @@
 <code><img height="20" src="https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/59376552/230419417-ba2d9784-e8f1-4a94-955f-c258f63a8f49.png"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/59376552/230419843-186a7a4d-de40-48b5-8066-53fa0a9477dc.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/59376552/230419843-186a7a4d-de40-48b5-8066-53fa0a9477dc.png"></code>
 <br/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-id-pa&theme=tokyonight&show_icons=true)<br/>
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigo-id-pa">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigo-id-pa&layout=compact&theme=tokyonight" />
