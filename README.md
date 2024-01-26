@@ -4,14 +4,14 @@
 ⚡ Desenvolvedor e Analista de Dados
 
 :computer: Techs: <br/>
-  _Javascript_
-  _Python_
-  _SQL Server_
-  _Power Bi_
-  _Power Apps_
-  _Power Automate Web e Desktop_
-  _Figma_
-  _Photoshop_
+  - _Javascript_ 
+  - _Python_
+  - _SQL Server_
+  - _Power Bi_
+  - _Power Apps_
+  - _Power Automate Web e Desktop_
+  - _Figma_
+  - _Photoshop_
 <br/>
 
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigo-id-pa">
