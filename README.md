@@ -14,7 +14,7 @@
   - _Photoshop_
 <br/>
 
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigo-id-pa">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrigo-id-pa&layout=compact&theme=tokyonight" />
+<a href="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rodrigo-id-pa&theme=tokyonight&langs_count=8">
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rodrigo-id-pa&theme=tokyonight&langs_count=8" />
 </a>
 
