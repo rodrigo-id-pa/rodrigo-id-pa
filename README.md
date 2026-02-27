@@ -1,5 +1,5 @@
 ### _Olá 👋, Sou Rodrigo - td bem ? - 👨&zwj;💻_
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigopa-785a25168/)](https://www.linkedin.com/in/rodrigoidpa/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigopa-785a25168/)](https://www.linkedin.com/in/rodrigoidpa/)
 
 ⚡ Desenvolvedor RPA e Analista de Dados
 
